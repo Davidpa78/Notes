@@ -1,0 +1,16 @@
+# Comandos
+
+```
+>Comando head
+>comando head
+>comando head
+>siempre alerta estás.
+```
+
+ls: list files
+cd: change directory
+mkdir: make directory
+rm: remove.
+rmdir: remove directory (only if it´s empty)
+rm-rf: (**r**ecursivo **f**orce)
+cat: para ver lo que contiene
